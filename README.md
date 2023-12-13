@@ -9,9 +9,9 @@ Hi, my name is Martin, I'm 18 years old, I'm a young epitech developer.
 - 🎮 Gammer
 
 ## 📫 𝙿𝚛𝚘𝚏𝚒𝚕𝚎𝚜
-- 🖤 Github : [Click](https://github.com/HawksDev)
+- 🖤 Github : [Click](https://github.com/martinchabanne)
 - 💬 Discord : Hawks#4158
-https://img.shields.io/badge/DEV-C-informational?style=flat&logoColor=white&color=2bbc8a
+
 ## 🏆 𝚂𝚔𝚒𝚕𝚕𝚜
 - ![](https://img.shields.io/badge/DEV-C-informational?style=flat&logoColor=white&color=2bbc8a)
 - ![](https://img.shields.io/badge/DEV-Python-informational?style=flat&logoColor=white&color=2bbc8a)
