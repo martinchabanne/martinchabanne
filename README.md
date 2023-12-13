@@ -6,7 +6,6 @@ Hi, my name is Martin, I'm 18 years old, I'm a young epitech developer.
 - 🖥 Python developer
 - 💼 18 years
 - 🇫🇷 French
-- 🎮 Gammer
 
 ## 📫 𝙿𝚛𝚘𝚏𝚒𝚕𝚎𝚜
 - 🖤 Github : [Click](https://github.com/martinchabanne)
